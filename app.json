@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "mobileApp",
-    "slug": "mobileApp"
+    "slug": "mobileApp",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "8d53f593-8b57-4edd-aa37-082e6b450517"
+      }
+    },
+    "android": {
+      "package": "com.nerdchanojas.mobileApp"
+    }
   }
 }
