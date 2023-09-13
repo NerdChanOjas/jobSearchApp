@@ -1,14 +1,5 @@
-# Expo Router Example
+# Welcome to job search
+An application built within 20 hours to understand the core concepts of app development like navigation and API fetching.
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+# How to run this app
+Will be updated later.
